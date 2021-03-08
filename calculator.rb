@@ -1,1 +1,1 @@
-first_number.class.to.i 
+first_number = 1 
